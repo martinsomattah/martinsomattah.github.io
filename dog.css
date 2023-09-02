@@ -1,0 +1,22 @@
+table,th,td{
+  border-collapse: collapse;
+  border: 2px black;
+}
+
+  
+
+h1{text-align: center;
+color: palegoldenrod;
+  
+}
+h4 {text-align: center
+
+  
+}
+li{font-size: 30px;
+text-decoration:underline;
+  
+}
+img {
+  width: 90%;
+}
